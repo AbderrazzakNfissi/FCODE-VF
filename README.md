@@ -2,7 +2,6 @@
 
 FCode (French Code) is a programming language specifically designed to promote accessibility and education within the French-speaking community. By utilizing French keywords instead of English, FCode aims to bridge the gap and make programming more approachable for French speakers.
 
-![FCode Screenshot](screenshot.png)
 
 ## Project Status
 
